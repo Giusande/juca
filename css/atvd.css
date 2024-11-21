@@ -10,6 +10,7 @@
   
   .atvd{
     min-height: 430px;
+    max-width: 700px;
     padding: 10px;
     box-shadow: 0 0 1.5em #ddd;
     border-radius: 10px;
