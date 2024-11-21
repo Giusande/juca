@@ -63,4 +63,8 @@
     .atividades-content{
       margin-top: 150px;
     }
+    
+    footer{
+      bottom: -300px;
+    }
   }
